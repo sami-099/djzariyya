@@ -1,0 +1,388 @@
+{
+  "categories": [
+    {
+      "id": "greetings",
+      "name": "Greetings",
+      "words": [
+        {"en":["Hello"],"darija":["Salam"]},
+        {"en":["Good evening"],"darija":["Messe l khir"]},
+        {"en":["How are you?"],"darija":["Ki rak?"],"note":"to a man"},
+        {"en":["I'm fine"],"darija":["Labas, hamdoulah"]},
+        {"en":["Thank you"],"darija":["Sahit","Barak Allah fik"]},
+        {"en":["Goodbye"],"darija":["Beslama"]}
+      ]
+    },
+    {
+      "id": "numbers",
+      "name": "Numbers",
+      "words": [
+        {"en":["One"],"darija":["Wahed"]},
+        {"en":["Two"],"darija":["Zouj"]},
+        {"en":["Three"],"darija":["Tlata"]},
+        {"en":["Four"],"darija":["Rabaâ"]},
+        {"en":["Five"],"darija":["Khamsa"]},
+        {"en":["Six"],"darija":["Setta"]},
+        {"en":["Seven"],"darija":["Sebaâ"]},
+        {"en":["Eight"],"darija":["Tmenia"]},
+        {"en":["Nine"],"darija":["Tsaâ"]},
+        {"en":["Ten"],"darija":["3achra"]}
+      ]
+    },
+    {
+      "id": "verbs",
+      "name": "Everyday verbs",
+      "words": [
+        {"en":["I eat"],"darija":["Nekoul"]},
+        {"en":["I drink"],"darija":["Nechrob"]},
+        {"en":["I go"],"darija":["Nemchi","Nroh"]},
+        {"en":["I come"],"darija":["Nji"]},
+        {"en":["I want"],"darija":["Nebghi"]},
+        {"en":["I speak"],"darija":["Nehdar"]},
+        {"en":["I see"],"darija":["Nchouf"]}
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food & drink",
+      "words": [
+        {"en":["Water"],"darija":["Ma"]},
+        {"en":["Coffee"],"darija":["Qahwa"]},
+        {"en":["Tea"],"darija":["Atey"]},
+        {"en":["Bread"],"darija":["Khobz"]},
+        {"en":["Milk"],"darija":["Hlib"]},
+        {"en":["Sugar"],"darija":["Sokar"]},
+        {"en":["Eggplant"],"darija":["Denjel"]},
+        {"en":["Cheese"],"darija":["Formage"]},
+        {"en":["Rice"],"darija":["Roz"]},
+        {"en":["Egg"],"darija":["Beida"]},
+        {"en":["Eggs"],"darija":["Beid"]},
+        {"en":["Oil"],"darija":["Zeyt"]}
+      ]
+    },
+    {
+      "id": "kitchen",
+      "name": "Kitchen",
+      "words": [
+        {"en":["Knife"],"darija":["Mouss","Khoudmi"]},
+        {"en":["Spoon"],"darija":["Moghrof"]},
+        {"en":["Fork"],"darija":["Fourchetta"]},
+        {"en":["Plate"],"darija":["Tabsi"]},
+        {"en":["To cook"],"darija":["Tayeb"]},
+        {"en":["To cut"],"darija":["Qata3"]}
+      ]
+    },
+    {
+      "id": "vegetables",
+      "name": "Vegetables",
+      "words": [
+        {"en":["Tomato"],"darija":["Tomatich"]},
+        {"en":["Potato"],"darija":["Batata"]},
+        {"en":["Carrot"],"darija":["Zrodiya"]},
+        {"en":["Onion"],"darija":["Bsal"]},
+        {"en":["Pepper"],"darija":["Felfel","L7ar"]},
+        {"en":["Zucchini"],"darija":["Courgette"]},
+        {"en":["Garlic"],"darija":["Thoum"]},
+        {"en":["Lettuce"],"darija":["Slata"]},
+        {"en":["Cucumber"],"darija":["Khiar"]}
+      ]
+    },
+    {
+      "id": "fruits",
+      "name": "Fruits",
+      "words": [
+        {"en":["Apple"],"darija":["Tuffah"]},
+        {"en":["Orange (fruit)"],"darija":["Tchina"]},
+        {"en":["Banana"],"darija":["Banan"]},
+        {"en":["Strawberry"],"darija":["Fraise"]},
+        {"en":["Grapes"],"darija":["3neb"]},
+        {"en":["Watermelon"],"darija":["Della3"]},
+        {"en":["Melon"],"darija":["Batikh"]},
+        {"en":["Lemon"],"darija":["Lim"]},
+        {"en":["Dates"],"darija":["Tmar"]}
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "words": [
+        {"en":["My father"],"darija":["Baba"]},
+        {"en":["My mother"],"darija":["Mama"]},
+        {"en":["My brother"],"darija":["Khoya"]},
+        {"en":["My sister"],"darija":["Oukhti"]},
+        {"en":["My son"],"darija":["Weldi"]},
+        {"en":["My daughter"],"darija":["Benti"]}
+      ]
+    },
+    {
+      "id": "weather",
+      "name": "Weather",
+      "words": [
+        {"en":["It's hot"],"darija":["Skhana","Homan"]},
+        {"en":["It's cold"],"darija":["Berd"]},
+        {"en":["It's raining"],"darija":["Tih naw"]}
+      ]
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "words": [
+        {"en":["River"],"darija":["Wad"]},
+        {"en":["Desert"],"darija":["Sahra"]},
+        {"en":["Bird"],"darija":["Tayr","Zawch"],"note":"pl. Tyour / Zwawech"},
+        {"en":["Birds"],"darija":["Tyour"]},
+        {"en":["Animal"],"darija":["7ayawan"]},
+        {"en":["Animals"],"darija":["7ayawanat"]},
+        {"en":["Flower"],"darija":["Warda"]},
+        {"en":["Flowers"],"darija":["Ward"]},
+        {"en":["Fire"],"darija":["Nar"]},
+        {"en":["Wood"],"darija":["Lou7","7tab"]}
+      ]
+    },
+    {
+      "id": "transport",
+      "name": "Transport",
+      "words": [
+        {"en":["Car"],"darija":["Loto"]},
+        {"en":["Motorbike"],"darija":["Moto"]},
+        {"en":["Plane"],"darija":["Tayara"]},
+        {"en":["Ferry"],"darija":["Babor"]},
+        {"en":["To drive"],"darija":["Sog"]}
+      ]
+    },
+    {
+      "id": "clothes",
+      "name": "Clothes",
+      "words": [
+        {"en":["T-shirt"],"darija":["Trico"]},
+        {"en":["Shirt"],"darija":["9maja"]},
+        {"en":["Sock"],"darija":["Tqchira"],"note":"pl. Tqachir"},
+        {"en":["Shoes"],"darija":["Sobat","Sberdina"]},
+        {"en":["Underwear"],"darija":["Slip"]},
+        {"en":["Hat"],"darija":["Chapo"]},
+        {"en":["Pants"],"darija":["Serwal"]}
+      ]
+    },
+    {
+      "id": "body",
+      "name": "Body parts",
+      "words": [
+        {"en":["Head"],"darija":["Ras"]},
+        {"en":["Hair"],"darija":["Ch3ar"]},
+        {"en":["Eyes"],"darija":["3inin"]},
+        {"en":["Nose"],"darija":["Nif"]},
+        {"en":["Mouth"],"darija":["Fem"]},
+        {"en":["Ear"],"darija":["Wden"]},
+        {"en":["Arm"],"darija":["Dra3"]},
+        {"en":["Hand"],"darija":["Yed"]},
+        {"en":["Finger"],"darija":["Sbo3"]},
+        {"en":["Belly"],"darija":["Kerch"]},
+        {"en":["Back"],"darija":["Dhar"]},
+        {"en":["Leg"],"darija":["Jamba"]},
+        {"en":["Foot"],"darija":["Rjel"]},
+        {"en":["Heart"],"darija":["Galb"]}
+      ]
+    },
+    {
+      "id": "colors",
+      "name": "Colors",
+      "words": [
+        {"en":["White"],"darija":["Byad"]},
+        {"en":["Black"],"darija":["Khal"]},
+        {"en":["Red"],"darija":["Hmar"],"note":"f. Hamra"},
+        {"en":["Blue"],"darija":["Zraq"]},
+        {"en":["Green"],"darija":["Khdar"]},
+        {"en":["Yellow"],"darija":["Sfar"]},
+        {"en":["Brown"],"darija":["Qahwi"]},
+        {"en":["Gray"],"darija":["Ramadi"]},
+        {"en":["Pink"],"darija":["Wardi"]},
+        {"en":["Orange (color)"],"darija":["Bortqali"]}
+      ]
+    },
+    {
+      "id": "adjectives",
+      "name": "Adjectives",
+      "words": [
+        {"en":["Big"],"darija":["Kbir"],"note":"f. Kbira"},
+        {"en":["Small"],"darija":["Sghir"],"note":"f. Sghira"},
+        {"en":["Beautiful","Pretty"],"darija":["Chbab"],"note":"f. Chaba"},
+        {"en":["New"],"darija":["Jdid"]},
+        {"en":["Old (thing)"],"darija":["Qdim"]},
+        {"en":["Easy"],"darija":["Sahel"]},
+        {"en":["Difficult"],"darija":["S3ib"]},
+        {"en":["Fast"],"darija":["Rapide","Khfif"],"note":"Khfif also means light"},
+        {"en":["Slow"],"darija":["T9il"],"note":"also means heavy"}
+      ]
+    },
+    {
+      "id": "hobbies",
+      "name": "Hobbies",
+      "words": [
+        {"en":["Football"],"darija":["Football","Bola"]},
+        {"en":["Swimming"],"darija":["N3oum"]},
+        {"en":["Reading"],"darija":["Ne9ra"]},
+        {"en":["Watching TV / a film"],"darija":["Nchouf télé / film"]},
+        {"en":["Listening to Quran"],"darija":["Nesma3 quran"]},
+        {"en":["Cooking"],"darija":["Ntayeb"]},
+        {"en":["Walking"],"darija":["Netmcha"]},
+        {"en":["Travelling"],"darija":["Nsafar"]},
+        {"en":["Playing (games)"],"darija":["Nel3ab"]},
+        {"en":["Drawing","Painting"],"darija":["Nersem"]},
+        {"en":["Sport in general"],"darija":["Ndir sport"]}
+      ]
+    },
+    {
+      "id": "house",
+      "name": "House",
+      "words": [
+        {"en":["House","Home"],"darija":["Dar"]},
+        {"en":["Flat","Apartment"],"darija":["Appartement"]},
+        {"en":["Room"],"darija":["Bit","Chambra"]},
+        {"en":["Living room"],"darija":["Salon","Sala"]},
+        {"en":["Kitchen"],"darija":["Kouzina"]},
+        {"en":["Bathroom"],"darija":["Douche","Hammam"]},
+        {"en":["Toilet"],"darija":["Toilette","W.C."]},
+        {"en":["Balcony"],"darija":["Balcon"]},
+        {"en":["Garden"],"darija":["Jarda","Houch"]},
+        {"en":["Door"],"darija":["Bab"]},
+        {"en":["Window"],"darija":["Ta9a"]},
+        {"en":["Stairs"],"darija":["Droj"]},
+        {"en":["Key"],"darija":["Miftah"]}
+      ]
+    },
+    {
+      "id": "furniture",
+      "name": "Furniture & objects",
+      "words": [
+        {"en":["Table"],"darija":["Tabla"]},
+        {"en":["Chair"],"darija":["Korsi"]},
+        {"en":["Sofa","Couch"],"darija":["Kanapé","Sofa"]},
+        {"en":["Bed"],"darija":["Frash","Srir"]},
+        {"en":["Wardrobe","Closet"],"darija":["Armoire","Khazna"]},
+        {"en":["Fridge"],"darija":["Firjidaire","Frigo"]},
+        {"en":["TV"],"darija":["Télé"]},
+        {"en":["Lamp"],"darija":["Lampa","Daw"]},
+        {"en":["Mirror"],"darija":["Mraya"]},
+        {"en":["Carpet"],"darija":["Zerbiya"]}
+      ]
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "words": [
+        {"en":["I'm fine","I'm healthy"],"darija":["Labas","Rani mli7"]},
+        {"en":["I'm sick"],"darija":["Rani mrid"]},
+        {"en":["I have a headache"],"darija":["3andi wja3 f rassi","Rassi ydorni"]},
+        {"en":["I have a stomachache"],"darija":["3andi wja3 f kerchi","Kerchi tdorni"]},
+        {"en":["I have a fever"],"darija":["Fia l7emma"]},
+        {"en":["I have a cold"],"darija":["3andi berd","Fia la grippe"]},
+        {"en":["I have a cough"],"darija":["3andi ke7a"]},
+        {"en":["I am coughing"],"darija":["Rani nke7"]},
+        {"en":["I'm tired"],"darija":["Rani 3ayan"]},
+        {"en":["I'm in pain"],"darija":["3andi wja3"],"note":"Rani n3ani = I am suffering"},
+        {"en":["Medicine"],"darija":["Dwa"]},
+        {"en":["Doctor"],"darija":["Tbib"]},
+        {"en":["Pharmacy"],"darija":["Farmacie","Saydaliya"]},
+        {"en":["Prescription"],"darija":["Ordonnance"]}
+      ]
+    },
+    {
+      "id": "emotions",
+      "name": "Emotions",
+      "words": [
+        {"en":["Happy"],"darija":["Far7an"]},
+        {"en":["Sad"],"darija":["7zin"]},
+        {"en":["Angry"],"darija":["Za3fan","Ghadban"]},
+        {"en":["Tired"],"darija":["3ayan"]},
+        {"en":["Stressed"],"darija":["M9ala9"]},
+        {"en":["Bored"],"darija":["Mdegouter"]},
+        {"en":["Excited"],"darija":["Far7an bzaf","Met7ames"]},
+        {"en":["Scared","Afraid"],"darija":["Khayef"]},
+        {"en":["Surprised"],"darija":["Met3ajeb"]},
+        {"en":["Proud"],"darija":["Fakhor"]},
+        {"en":["Embarrassed"],"darija":["7achman"]},
+        {"en":["Calm","Relaxed"],"darija":["Mertah"]},
+        {"en":["Lonely"],"darija":["Wa7di"]},
+        {"en":["Busy"],"darija":["Mecheghoul"]},
+        {"en":["I cry"],"darija":["Nebki"]},
+        {"en":["I laugh"],"darija":["Nedhak"]},
+        {"en":["I smile"],"darija":["Netbessem"]},
+        {"en":["I enjoy"],"darija":["Nestemte3"]},
+        {"en":["He is curious"],"darija":["Ydekhel ro7ah"]}
+      ]
+    },
+    {
+      "id": "past-time",
+      "name": "Time (past)",
+      "words": [
+        {"en":["Yesterday"],"darija":["Lbare7"]},
+        {"en":["The day before yesterday"],"darija":["Loulbare7"]},
+        {"en":["Last week"],"darija":["Smana li fatet"]},
+        {"en":["Last month"],"darija":["Chhar li fat"]},
+        {"en":["Last year"],"darija":["3am li fat"]},
+        {"en":["This morning"],"darija":["Lyoum sbah"]},
+        {"en":["Last night"],"darija":["Lila li fatet"]},
+        {"en":["Ago"],"darija":["Men 9bel"],"note":"e.g. 3 days ago = Hedi 3 yam"}
+      ]
+    },
+    {
+      "id": "appearance",
+      "name": "Appearance",
+      "words": [
+        {"en":["Tall"],"darija":["Twil"],"note":"f. Twila"},
+        {"en":["Short"],"darija":["9sir"],"note":"f. 9sira"},
+        {"en":["Thin","Slim"],"darija":["R9i9"],"note":"f. R9i9a"},
+        {"en":["Fat","Chubby"],"darija":["Smin","Kbir"],"note":"f. Smina"},
+        {"en":["Young"],"darija":["Sghir"],"note":"f. Sghira"},
+        {"en":["Old (person)"],"darija":["Kbir","3ajouz"]},
+        {"en":["Handsome","Beautiful"],"darija":["Chbab"],"note":"f. Chaba"},
+        {"en":["Ugly"],"darija":["Mechi chbeb"]},
+        {"en":["Hair"],"darija":["Ch3ar"]},
+        {"en":["Long hair"],"darija":["Ch3ar twil"]},
+        {"en":["Short hair"],"darija":["Ch3ar 9sir"]},
+        {"en":["Straight hair"],"darija":["Ch3ar liss"]},
+        {"en":["Curly hair"],"darija":["Ch3ar curly"]},
+        {"en":["Blonde"],"darija":["Blond"]},
+        {"en":["Brown hair"],"darija":["Ch3ar qahwi"]},
+        {"en":["Black hair"],"darija":["Ch3ar khal"]},
+        {"en":["Grey hair"],"darija":["Ch3ar byad","Ch3ar ramadi"]},
+        {"en":["Bald"],"darija":["Sla3","9ra3"]},
+        {"en":["Face"],"darija":["Wjeh"]},
+        {"en":["Eyes"],"darija":["3inin"]},
+        {"en":["Big eyes"],"darija":["3inin kbar"]},
+        {"en":["Small eyes"],"darija":["3inin sghar"]},
+        {"en":["Blue eyes"],"darija":["3inin zro9a"]},
+        {"en":["Brown eyes"],"darija":["3inin qahwiyin"]},
+        {"en":["Beard"],"darija":["Leḥya"]},
+        {"en":["Moustache"],"darija":["Moustache"]},
+        {"en":["Glasses"],"darija":["Nwader","Lunettes"]}
+      ]
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "words": [
+        {"en":["Dog"],"darija":["Kelb"],"note":"f. Kelba · pl. Klab"},
+        {"en":["Cat"],"darija":["Gat"],"note":"f. Gatta · pl. Gtota"},
+        {"en":["Bird"],"darija":["Tayr","Zawch"],"note":"pl. Tyour / Zwawech"},
+        {"en":["Fish"],"darija":["7outa"],"note":"pl. 7out"},
+        {"en":["Horse"],"darija":["3awd"],"note":"f. 3awda"},
+        {"en":["Rabbit"],"darija":["Arnab"],"note":"f. Gnina"},
+        {"en":["Chicken"],"darija":["Djaj"]},
+        {"en":["Sheep"],"darija":["Khrouf"],"note":"f. Khroufa"},
+        {"en":["Mutton"],"darija":["Kebch"],"note":"f. Ne3ja · pl. Kbech"},
+        {"en":["Cow"],"darija":["Bagra"]},
+        {"en":["Donkey"],"darija":["7mar"],"note":"f. 7mara"},
+        {"en":["Camel"],"darija":["Jmel"],"note":"f. Naga"},
+        {"en":["Lion"],"darija":["Sbe3"]},
+        {"en":["Snake"],"darija":["Lef3a"]},
+        {"en":["Monkey"],"darija":["Chadi"]},
+        {"en":["Duck"],"darija":["Batta"],"note":"pl. Batt"},
+        {"en":["Pet"],"darija":["7ayawan alif"]},
+        {"en":["Animal"],"darija":["7ayawan"]},
+        {"en":["Animals"],"darija":["7ayawanat"]},
+        {"en":["Cute"],"darija":["Chbab"]},
+        {"en":["Dangerous and strong"],"darija":["Wa3er"]}
+      ]
+    }
+  ]
+}

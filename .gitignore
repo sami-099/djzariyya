@@ -1,0 +1,17 @@
+# Node
+node_modules
+dist
+coverage
+
+# Python
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+.ruff_cache
+
+# Local
+.env
+.env.*
+*.log
+.DS_Store
