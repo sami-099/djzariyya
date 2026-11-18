@@ -8,6 +8,8 @@ resource "github_repository" "djzariyya" {
   description = "Flashcards and quizzes for learning Algerian Darija"
   visibility  = "public"
 
+  topics = ["darija", "flashcards"]
+
   has_issues   = true
   has_projects = true
   has_wiki     = true
