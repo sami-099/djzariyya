@@ -17,6 +17,8 @@ COPY data ./data
 COPY --from=frontend /app/dist ./dist
 RUN useradd --create-home app
 USER app
+ARG COMMIT_SHA=dev
+ENV COMMIT_SHA=$COMMIT_SHA
 ENV PATH="/app/.venv/bin:$PATH" HOST=0.0.0.0 PORT=8000
 EXPOSE 8000
 CMD ["python", "-m", "server"]
