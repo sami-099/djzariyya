@@ -21,3 +21,4 @@ docs/build_notes.md
 .terraform/
 *.tfstate
 *.tfstate.*
+tfplan
