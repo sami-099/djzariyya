@@ -12,7 +12,22 @@
         {"en":["Goodbye"],"darija":["Beslama"]}
       ]
     },
-    {
+
+{
+  "id": "pronouns",
+  "name": "Pronouns",
+  "words": [
+    {"en": ["I"], "darija": ["Ana"]},
+    {"en": ["You (masculine)"], "darija": ["Nta"]},
+    {"en": ["You (feminine)"], "darija": ["Nti"]},
+    {"en": ["He"], "darija": ["Houwa"]},
+    {"en": ["She"], "darija": ["Hiya"]},
+    {"en": ["We"], "darija": ["7na"]},
+    {"en": ["You (plural)"], "darija": ["Ntouma"]},
+    {"en": ["They"], "darija": ["Houma"]}
+  ]
+},
+   {
       "id": "numbers",
       "name": "Numbers",
       "words": [
